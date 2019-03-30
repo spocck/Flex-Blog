@@ -31,7 +31,6 @@ img{
 .superinfo {
     max-width: 960px;
     margin: 0 auto;
-    border: 1px solid red;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
