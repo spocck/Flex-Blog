@@ -1,3 +1,3 @@
 # Flex-Blog
   Curso flex-box origamid.
-  https://spocck.github.io/Flex-Blog/?
+  https://rodrigoreeis.github.io/Flex-Blog/?
